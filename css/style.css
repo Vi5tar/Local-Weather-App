@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.jumbotron {
+  background-color: #3A3D4F;  
+}
+
+body, html {
+  height: 100%;
+  background-color: #F14E1C;
+  text-transform: capitalize;
+  color: white;
+  font-size: 1.15em;
+  font-family: 'Aldrich';
+}
+
+a:link {
+    text-decoration: none;
+    color: blue;
+}
+
+a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
